@@ -1,6 +1,7 @@
 # cityweather
 
 A new Flutter application that fetch weather info .
+Created on Bloc Architecture.
 
 ## Getting Started
 
